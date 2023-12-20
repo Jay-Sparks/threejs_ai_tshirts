@@ -32,4 +32,4 @@ const CustomButton = ({ title, type, customStyles, handleClick  }) => {
   )
 }
 
-export default CustomButton
+export default CustomButton;

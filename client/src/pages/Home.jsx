@@ -4,7 +4,7 @@ import { useSnapshot } from 'valtio';
 // bringing in state from valtio
 import state from '../store';
 
-import { CustomButton } from '../components';
+import CustomButton from '../components/CustomButton';
 
 import {
   headContainerAnimation,
