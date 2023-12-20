@@ -9,7 +9,11 @@ import { downloadCanvasToImage, reader } from '../config/helpers';
 import { EditorTabs, FilterTabs, DecalTypes } from '../config/constants';
 import { fadeAnimation, slideAnimation } from '../config/motion';
 
-import { AIPicker, ColorPicker, CustomButton, FilePicker, Tab } from '../components';
+import AIPicker from '../components';
+import ColorPicker from '../components';
+import CustomButton from '../components';
+import FilePicker from '../components';
+import Tab from '../components';
 
 const Customizer = () => {
   const snap = useSnapshot(state);
