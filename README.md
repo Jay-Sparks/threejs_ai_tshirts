@@ -1,7 +1,7 @@
 # A three.js tutorial by @Javascript mastery
 
-[R3F tutorial]('https://www.youtube.com/watch?v=ZqEa8fTxypQ&t=1s')
-[Tutorial Github]('https://github.com/adrianhajdin/project_threejs_ai')
+[R3F tutorial](https://www.youtube.com/watch?v=ZqEa8fTxypQ&t=1s)
+[Tutorial Github](https://github.com/adrianhajdin/project_threejs_ai)
 
 # Technologies
 
